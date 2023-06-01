@@ -1,7 +1,8 @@
 # Unity-ML-Agents-Training-a-Robot
 Train a virtual robot to walk towards a target using Unity, ML Agents, and Reinforcement Learning. This project combines RL and Imitation Learning techniques to optimize the robot's movements. Explore the intersection of Unity, ML Agents, and RL, and learn to train intelligent agents for robotics and autonomous systems.
 
-![Shooter Image](Recordings/Image.gif)
+![image](https://github.com/sushantmenon1/Unity-ML-Agents-Training-a-Robot/assets/74258021/cc133f1c-2e37-44ce-8ceb-f5f91a22974c)
+
 ## About
 **Unity-ML-Agents-Training-a-Robot** is an implementation of reinforcement learning in an old basic Unity tutorial project.
 
